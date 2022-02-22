@@ -1,0 +1,9 @@
+1 ] Question: What are the supported standard data types in Python?
+
+2 ] Question: Define tuples in Python?
+
+3 ] Question: What is the major difference between tuples and lists in Python?
+
+4 ] Question: What are the positive and negative indices?
+
+5 ] Question: Define Pass statement in Python?
