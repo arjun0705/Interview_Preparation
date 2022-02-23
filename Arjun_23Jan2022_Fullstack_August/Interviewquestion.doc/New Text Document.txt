@@ -1,0 +1,19 @@
+1 ] Question: How many ways can be applied for applying reverse string?
+
+2 ] Question: What are the different stages of the Life Cycle of a Thread?
+
+3 ] Question: What is the purpose of relational operators in Python?
+
+4 ] Question: What are assignment operators in Python?
+
+5 ] Question: Explain Inheritance and its various types in Python?
+
+6 ]  Explain Django Architecture?
+
+7 ] Explain the django project directory structure?
+
+8 ] What are models in Django?
+
+9 ] What are templates in Django or Django template language?
+
+10 ] What are views in Django?  
