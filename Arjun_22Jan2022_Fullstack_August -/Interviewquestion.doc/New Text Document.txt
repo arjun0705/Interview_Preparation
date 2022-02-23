@@ -1,0 +1,19 @@
+1 ] Question: What are the supported standard data types in Python?
+
+2 ] Question: Define tuples in Python?
+
+3 ] Question: What is the major difference between tuples and lists in Python?
+
+4 ] Question: What are the positive and negative indices?
+
+5 ] Question: Define Pass statement in Python?
+
+6 ] Question: Can we reverse a list in Python?
+
+7 ] Question: Why do we need a break in Python?
+
+8 ] Question: Why do we need a continue in Python?
+
+9 ] Question: How many ways can be applied for applying reverse string?
+
+10 ] Question: Does Python support an intrinsic do-while loop?
