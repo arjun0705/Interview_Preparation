@@ -1,0 +1,10 @@
+
+1 ] Question: Draw a comparison between the range and xrange in Python.
+
+2 ] Question: Explain Inheritance and its various types in Python?
+
+3 ] Question: Give a explanation about setting up the database in Django.
+
+4 ] Question: How will you distinguish between NumPy and SciPy?
+
+5 ] Question: What is the map() function used for in Python?
